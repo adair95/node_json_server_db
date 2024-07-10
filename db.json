@@ -1,0 +1,76 @@
+{
+  "profesores": [
+    {
+      "nombre": "Adair",
+      "apellido": "Villalba",
+      "materia": [
+        {
+          "nombre": "Node js desde cero"
+        },
+        {
+          "nombre": "React desde cero"
+        },
+        {
+          "nombre": "javaScript desde cero"
+        }
+      ],
+      "id": "9388"
+    },
+    {
+      "id": "0da6",
+      "nombre": "Mario",
+      "apellido": "Aequeda",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Matemeticas"
+        },
+        {
+          "nombre": "Naturales"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Ruiz",
+      "promedio": 4,
+      "id": "e2e6"
+    },
+    {
+      "nombre": "Andres",
+      "apellido": "Romero",
+      "promedio": 5,
+      "id": "db4f"
+    },
+    {
+      "id": "267b",
+      "nombre": "Camila",
+      "apellido": "Romero",
+      "promedio": 4.5
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Node js desde cero",
+      "duracion": 7,
+      "dificultad": "Intermedio",
+      "id": "d3fe"
+    },
+    {
+      "nombre": "Rect desde cero",
+      "duracion": 7,
+      "dificultad": "Intermedio",
+      "id": "4b4f"
+    },
+    {
+      "nombre": "Angular desde cero",
+      "duracion": 8,
+      "dificultad": "Alta",
+      "id": "4dae"
+    }
+  ]
+}
